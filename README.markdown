@@ -2,6 +2,11 @@
 
 jquery plugin to deal with tokenized input (ie. tags or email addresses)
 
+## Forked by nextdude...
+
+I forked this to add some functionality to support searching for tokens across multiple fields, 
+as is done in the Mac OS X Lion Finder's folder search input field.
+
 ## Usage
 
 1. Copy javascript, stylesheet and images to your project.
